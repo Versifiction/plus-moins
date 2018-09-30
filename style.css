@@ -1,9 +1,10 @@
 body {
   font-family: 'Lato', sans-serif;
-  background-image: url(bg.png);
+  background-image: url(bg-dark.jpg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
+  background-color: black;
   height: 100vh;
   margin: inherit !important;
 }
